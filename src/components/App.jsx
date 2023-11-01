@@ -56,26 +56,3 @@ export class App extends Component {
     );
   }
 }
-
-// export default App;
-// import React from 'react';
-
-
-
-// export default Statistics;
-// import React from 'react';
-
-
-
-// export default FeedbackOptions;
-// import React from 'react';
-
-
-
-// export default Section;
-// import React from 'react';
-
-// const Notification = ({ message }) => <p>{message}</p>;
-
-// export default Notification;
-// export default App;
